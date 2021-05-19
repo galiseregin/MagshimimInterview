@@ -1,0 +1,4 @@
+Name: shmoolik id: 111111111 avg: 81
+Name: yahav id: 222222222 avg: 95
+Name: liron id: 333333333 avg: 88
+Name: ran id: 444444444 avg: 90
